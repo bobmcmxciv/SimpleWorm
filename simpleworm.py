@@ -1,11 +1,7 @@
-from pyExcelerator import *
 from bs4 import BeautifulSoup
-import Queue
 import re
-import urllib2,urllib 
+import urllib2
 import time
-import multiprocessing
-import sys
 import csv
 from sgmllib import SGMLParser
 from multiprocessing import Pool
